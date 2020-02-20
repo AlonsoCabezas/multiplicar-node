@@ -6,6 +6,6 @@ Esta es una aplicación para generar archivos de tablas de multiplicar en archiv
 
 Ejecutar este comando
 
-````
+```
 npm install
 ```
